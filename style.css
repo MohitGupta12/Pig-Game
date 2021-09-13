@@ -179,6 +179,6 @@ i {
     box-shadow: 0px 10px 60px rgba(34, 10, 29, 0.384);
 }
 
-.winner { background-color: #9af08f75; }
-.winner .player-name { font-weight: 800; color: rgba(40, 150, 12, 0.900); }
+.winner { background-color: #82f0748c; }
+.winner .player-name { font-weight: 800; color: rgba(12, 184, 78, 0.678); }
 
